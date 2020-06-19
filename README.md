@@ -2,6 +2,8 @@
 
 Put fake-movie button on the image.
 
+![](https://raw.githubusercontent.com/mattn/fakemovie/output.png)
+
 ## Usage
 
 ```

@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"image"
+	_ "image/jpeg"
 	"image/png"
 	"log"
 	"os"

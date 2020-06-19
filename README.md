@@ -5,7 +5,7 @@ Put fake-movie button on the image.
 ## Usage
 
 ```
-$ fakemovie input.png
+$ fakemovie -r 40 input.png
 ```
 
 ## Installation
